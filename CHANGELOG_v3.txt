@@ -1,0 +1,13 @@
+GENETIC ADVENTURE - CHANGELOG v3 BIRU INTERAKTIF
+
+- Menetapkan tema utama biru dan menyelaraskan warna antarmuka serta ilustrasi SVG internal.
+- Menggunakan SVG lokal untuk brand logo dan favicon; PNG fallback serta Apple touch icon disertakan.
+- Memperbarui delapan stasiun laboratorium dengan pola interaksi yang berbeda.
+- Menambahkan drag-and-drop berbasis Pointer Events dengan drag preview, dukungan mouse/touch, tap-to-place, dan keyboard pada slot perakitan.
+- Mengembangkan eksplorasi kromosom menjadi hotspot bertahap.
+- Mengembangkan transkripsi mRNA menjadi simulasi step-by-step dengan pemutaran otomatis, jeda, langkah manual, dan reset.
+- Mengembangkan klasifikasi DNA/RNA dengan dropdown dan umpan balik langsung.
+- Mengembangkan eksplorasi gen/alel dan monohibrid dengan select serta visualisasi otomatis.
+- Mengembangkan dihibrid dengan slider ukuran sampel dan perbandingan hasil aktual terhadap rasio teoretis 9:3:3:1.
+- Menyesuaikan progres, pemeriksaan, umpan balik, laporan, dan README.
+- Mempertahankan 14 materi, quiz 20 soal, ekspor XLSX, musik lokal, video materi 14, dan profil pengembang.
