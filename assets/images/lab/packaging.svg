@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-label="Ilustrasi komponen pengemasan DNA">
+  <defs>
+    <linearGradient id="dnaA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+    <linearGradient id="proteinA" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bfdbfe"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  </defs>
+  <rect width="900" height="280" rx="24" fill="#f8fbff"/>
+  <g transform="translate(45 42)" fill="none" stroke-linecap="round">
+    <path d="M28 8C150 36 18 126 140 166M140 8C18 36 150 126 28 166" stroke="url(#dnaA)" stroke-width="10"/>
+    <g stroke="#93c5fd" stroke-width="6"><path d="M48 22h72M33 52h102M29 84h110M33 116h102M48 148h72"/></g>
+  </g>
+  <g transform="translate(245 45)" fill="url(#proteinA)" stroke="#1d4ed8" stroke-width="4">
+    <circle cx="48" cy="55" r="31"/><circle cx="103" cy="42" r="31"/><circle cx="158" cy="55" r="31"/>
+    <circle cx="48" cy="116" r="31"/><circle cx="103" cy="129" r="31"/><circle cx="158" cy="116" r="31"/>
+  </g>
+  <g transform="translate(485 34)">
+    <circle cx="86" cy="88" r="69" fill="#dbeafe" stroke="#2563eb" stroke-width="5"/>
+    <path d="M20 77c25-72 103 70 132 0M20 100c25 72 103-70 132 0" fill="none" stroke="#1d4ed8" stroke-width="9" stroke-linecap="round"/>
+    <path d="M26 88c25-45 95 45 120 0" fill="none" stroke="#60a5fa" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(690 44)" fill="none" stroke-linecap="round">
+    <path d="M0 20c45-42 62 42 108 0s62 42 108 0M0 62c45-42 62 42 108 0s62 42 108 0M0 104c45-42 62 42 108 0s62 42 108 0M0 146c45-42 62 42 108 0s62 42 108 0" stroke="#2563eb" stroke-width="9"/>
+    <path d="M0 36c45-42 62 42 108 0s62 42 108 0M0 78c45-42 62 42 108 0s62 42 108 0M0 120c45-42 62 42 108 0s62 42 108 0" stroke="#93c5fd" stroke-width="5"/>
+  </g>
+</svg>
